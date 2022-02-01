@@ -3,3 +3,7 @@ clone
 pull
 push
 understanding how to resolve conflicts
+
+I have publish folder from visual studio by using publish option available
+
+url of the same 
